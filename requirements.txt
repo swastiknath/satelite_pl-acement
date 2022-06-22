@@ -15,7 +15,7 @@ homebase==1.0.1
 itsdangerous==1.1.0
 minorminer==0.1.9
 networkx==2.4
-numpy==1.19.0
+numpy==1.22.0
 ortools==7.7.7810
 penaltymodel==0.16.3
 penaltymodel-cache==0.4.1
